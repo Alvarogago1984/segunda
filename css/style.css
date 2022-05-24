@@ -1,0 +1,238 @@
+
+.h1 {
+    font-size: 3.5rem;
+    color: darkgoldenrod;
+    font-family: Work Sans, sans-serif;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+a {
+    color: grey;
+    font-family: Work Sans, sans-serif;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover {
+    color: darkgoldenrod;
+}
+
+span {
+    color: grey;
+}
+
+.submenu {
+    margin-left: 842px;
+    margin-bottom: 11px;
+    margin-top: 20px;
+    font-size: 0.85rem;
+    font-family: Work Sans, sans-serif;
+    display: inline-flex;
+
+}
+
+.superior {
+    padding-bottom: 0;
+    display: inline-block;
+}
+
+.work {
+    color: darkgoldenrod;
+}
+
+.about {
+    color: darkgoldenrod;
+}
+
+.index {
+    color: darkgoldenrod;
+}
+
+.contact {
+    color: darkgoldenrod;
+}
+
+.imagen-portada {
+    width: 96%;
+    margin: 1px 40px 20px 40px;
+}
+
+.insta {
+    width: 1%;
+    height: 1%;
+    opacity: 0.5;
+}
+
+.face {
+    width: 1%;
+    height: 1%;
+    opacity: 0.5;
+}
+
+.parte-inferior {
+    margin-left: 29px;
+    margin-bottom: 10px;
+    display: inline;
+    font-size: 0.8rem;
+}
+
+#avatar {
+    border-radius: 100%;
+    margin-top: 62px;
+    width: 190px;
+}
+
+.about-contenido {
+    display: flex;
+    justify-content: center;
+}
+
+.about-texto {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 701px;
+    margin-left: 362px;
+    text-align: center;
+    line-height: 1.4;
+}
+
+h2 {
+    float: right;
+}
+
+h3 {
+    font-size: 1.7rem;
+    color: #545454;
+
+}
+
+p {
+    justify-content: center;
+    font-size: 15px;
+    font-family: Abel, sans-serif;
+    color: #838383;
+}
+
+.botton {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0 80px 0;
+}
+
+.botton-propiedades {
+    padding: 13px;
+    background-color: black;
+    border-radius: 10%;
+    color: aliceblue;
+}
+
+.contact-medium {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.contact-img {
+    width: 612px;
+    display: flex;
+    justify-content: left;
+    margin-top: 100px;
+    margin-left: 40px;
+}
+
+.contact-formulario {
+    width: 100%;
+    margin-left: 122px;
+    margin-top: 82px;
+    margin-right: 130px;
+}
+
+#name {
+    padding: 15px 165px 15px 10px;
+    margin-bottom: 35px;
+    border-width: 0.01rem;
+
+}
+
+#email {
+    padding: 15px 234px 15px 10px;
+    margin-bottom: 35px;
+    border-width: 0.01rem;
+
+}
+
+#telefono {
+    padding: 15px 300px 15px 10px;
+    margin-bottom: 35px;
+    border-width: 0.01rem;
+}
+
+#localizacion {
+
+    padding: 15px 300px 15px 10px;
+    margin-bottom: 35px;
+    border-width: 0.01rem;
+}
+
+#mensaje {
+
+    padding: 15px 300px 50px 10px;
+    margin-bottom: 35px;
+    border-width: 0.01rem;
+}
+
+#submit {
+    display: block;
+    padding: 2%;
+}
+
+.imagenes-work {
+    display: block;
+    margin: 60px 10px 60px 10px;
+
+}
+
+.photo-1 {
+    width: 670px;
+    height: 380px;
+    margin-bottom: 5px;
+
+
+}
+
+.photo-1:hover {
+    filter: grayscale(100%);
+}
+
+.photo-2 {
+    width: 670px;
+    height: 380px;
+    margin-bottom: 5px;
+
+}
+
+.photo-2:hover {
+    filter: grayscale(100%);
+}
+
+.photo-3 {
+    width: 670px;
+    height: 380px;
+
+
+}
+
+.photo-3:hover {
+    filter: grayscale(100%);
+}
+
+.photo-4 {
+    width: 670px;
+    height: 380px;
+
+}
+
+.photo-4:hover {
+    filter: grayscale(100%);
+}
